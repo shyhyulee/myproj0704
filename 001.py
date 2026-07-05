@@ -3,4 +3,5 @@ print("閃電鳥最著名的魔性叫聲就是「傘店！傘店！」")
 print("暴飛龍（舊譯：血翼飛龍）最著名的魔性叫聲就是聽起來像在罵髒話的「靠北！」")
 print("12345654321")#新增的內容
 print("f1: AAABBB")
+print("f2: EEEFFF")
 print("f1: CCCDDD")
