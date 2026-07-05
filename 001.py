@@ -5,3 +5,4 @@ print("12345654321")#新增的內容
 print("f1: AAABBB")
 print("f2: EEEFFF")
 print("f1: CCCDDD")
+print("後方組員報到")
